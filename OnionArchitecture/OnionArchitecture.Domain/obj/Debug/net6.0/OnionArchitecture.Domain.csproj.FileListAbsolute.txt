@@ -1,0 +1,11 @@
+D:\Raja\DotNet\OnionArchitecture\OnionArchitecture.Domain\bin\Debug\net6.0\OnionArchitecture.Domain.deps.json
+D:\Raja\DotNet\OnionArchitecture\OnionArchitecture.Domain\bin\Debug\net6.0\OnionArchitecture.Domain.dll
+D:\Raja\DotNet\OnionArchitecture\OnionArchitecture.Domain\bin\Debug\net6.0\OnionArchitecture.Domain.pdb
+D:\Raja\DotNet\OnionArchitecture\OnionArchitecture.Domain\obj\Debug\net6.0\OnionArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Raja\DotNet\OnionArchitecture\OnionArchitecture.Domain\obj\Debug\net6.0\OnionArchitecture.Domain.AssemblyInfoInputs.cache
+D:\Raja\DotNet\OnionArchitecture\OnionArchitecture.Domain\obj\Debug\net6.0\OnionArchitecture.Domain.AssemblyInfo.cs
+D:\Raja\DotNet\OnionArchitecture\OnionArchitecture.Domain\obj\Debug\net6.0\OnionArchitecture.Domain.csproj.CoreCompileInputs.cache
+D:\Raja\DotNet\OnionArchitecture\OnionArchitecture.Domain\obj\Debug\net6.0\OnionArchitecture.Domain.dll
+D:\Raja\DotNet\OnionArchitecture\OnionArchitecture.Domain\obj\Debug\net6.0\refint\OnionArchitecture.Domain.dll
+D:\Raja\DotNet\OnionArchitecture\OnionArchitecture.Domain\obj\Debug\net6.0\OnionArchitecture.Domain.pdb
+D:\Raja\DotNet\OnionArchitecture\OnionArchitecture.Domain\obj\Debug\net6.0\ref\OnionArchitecture.Domain.dll

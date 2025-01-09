@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Raja\\DotNet\\OnionArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C66D273B-BA42-437F-BA9B-A1C6CF639B39}|OnionArchitecture.Application\\OnionArchitecture.Application.csproj|d:\\raja\\dotnet\\onionarchitecture\\onionarchitecture.application\\services\\refreshtokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66D273B-BA42-437F-BA9B-A1C6CF639B39}|OnionArchitecture.Application\\OnionArchitecture.Application.csproj|solutionrelative:onionarchitecture.application\\services\\refreshtokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66D273B-BA42-437F-BA9B-A1C6CF639B39}|OnionArchitecture.Application\\OnionArchitecture.Application.csproj|d:\\raja\\dotnet\\onionarchitecture\\onionarchitecture.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66D273B-BA42-437F-BA9B-A1C6CF639B39}|OnionArchitecture.Application\\OnionArchitecture.Application.csproj|solutionrelative:onionarchitecture.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A7CB48-A735-418C-8421-9EBCC1251C54}|OnionArchitecture\\OnionArchitecture.csproj|d:\\raja\\dotnet\\onionarchitecture\\onionarchitecture\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A7CB48-A735-418C-8421-9EBCC1251C54}|OnionArchitecture\\OnionArchitecture.csproj|solutionrelative:onionarchitecture\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A7CB48-A735-418C-8421-9EBCC1251C54}|OnionArchitecture\\OnionArchitecture.csproj|d:\\raja\\dotnet\\onionarchitecture\\onionarchitecture\\middlewares\\loggermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A7CB48-A735-418C-8421-9EBCC1251C54}|OnionArchitecture\\OnionArchitecture.csproj|solutionrelative:onionarchitecture\\middlewares\\loggermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A7CB48-A735-418C-8421-9EBCC1251C54}|OnionArchitecture\\OnionArchitecture.csproj|d:\\raja\\dotnet\\onionarchitecture\\onionarchitecture\\middlewares\\jwtvalidationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A7CB48-A735-418C-8421-9EBCC1251C54}|OnionArchitecture\\OnionArchitecture.csproj|solutionrelative:onionarchitecture\\middlewares\\jwtvalidationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF89F4E-26A0-40C3-8609-4E4995531C4E}|OnionArchitecture.Infrastructure\\OnionArchitecture.Infrastructure.csproj|d:\\raja\\dotnet\\onionarchitecture\\onionarchitecture.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF89F4E-26A0-40C3-8609-4E4995531C4E}|OnionArchitecture.Infrastructure\\OnionArchitecture.Infrastructure.csproj|solutionrelative:onionarchitecture.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A7CB48-A735-418C-8421-9EBCC1251C54}|OnionArchitecture\\OnionArchitecture.csproj|d:\\raja\\dotnet\\onionarchitecture\\onionarchitecture\\middlewares\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A7CB48-A735-418C-8421-9EBCC1251C54}|OnionArchitecture\\OnionArchitecture.csproj|solutionrelative:onionarchitecture\\middlewares\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A7CB48-A735-418C-8421-9EBCC1251C54}|OnionArchitecture\\OnionArchitecture.csproj|d:\\raja\\dotnet\\onionarchitecture\\onionarchitecture\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A7CB48-A735-418C-8421-9EBCC1251C54}|OnionArchitecture\\OnionArchitecture.csproj|solutionrelative:onionarchitecture\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66D273B-BA42-437F-BA9B-A1C6CF639B39}|OnionArchitecture.Application\\OnionArchitecture.Application.csproj|d:\\raja\\dotnet\\onionarchitecture\\onionarchitecture.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66D273B-BA42-437F-BA9B-A1C6CF639B39}|OnionArchitecture.Application\\OnionArchitecture.Application.csproj|solutionrelative:onionarchitecture.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A7CB48-A735-418C-8421-9EBCC1251C54}|OnionArchitecture\\OnionArchitecture.csproj|d:\\raja\\dotnet\\onionarchitecture\\onionarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A7CB48-A735-418C-8421-9EBCC1251C54}|OnionArchitecture\\OnionArchitecture.csproj|solutionrelative:onionarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66D273B-BA42-437F-BA9B-A1C6CF639B39}|OnionArchitecture.Application\\OnionArchitecture.Application.csproj|d:\\raja\\dotnet\\onionarchitecture\\onionarchitecture.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66D273B-BA42-437F-BA9B-A1C6CF639B39}|OnionArchitecture.Application\\OnionArchitecture.Application.csproj|solutionrelative:onionarchitecture.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E807EFDE-F914-4A2F-A01C-C578CA3526EC}|OnionArchitecture.Domain\\OnionArchitecture.Domain.csproj|d:\\raja\\dotnet\\onionarchitecture\\onionarchitecture.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E807EFDE-F914-4A2F-A01C-C578CA3526EC}|OnionArchitecture.Domain\\OnionArchitecture.Domain.csproj|solutionrelative:onionarchitecture.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66D273B-BA42-437F-BA9B-A1C6CF639B39}|OnionArchitecture.Application\\OnionArchitecture.Application.csproj|d:\\raja\\dotnet\\onionarchitecture\\onionarchitecture.application\\interfaces\\irefreshtokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66D273B-BA42-437F-BA9B-A1C6CF639B39}|OnionArchitecture.Application\\OnionArchitecture.Application.csproj|solutionrelative:onionarchitecture.application\\interfaces\\irefreshtokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66D273B-BA42-437F-BA9B-A1C6CF639B39}|OnionArchitecture.Application\\OnionArchitecture.Application.csproj|d:\\raja\\dotnet\\onionarchitecture\\onionarchitecture.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66D273B-BA42-437F-BA9B-A1C6CF639B39}|OnionArchitecture.Application\\OnionArchitecture.Application.csproj|solutionrelative:onionarchitecture.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF89F4E-26A0-40C3-8609-4E4995531C4E}|OnionArchitecture.Infrastructure\\OnionArchitecture.Infrastructure.csproj|d:\\raja\\dotnet\\onionarchitecture\\onionarchitecture.infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF89F4E-26A0-40C3-8609-4E4995531C4E}|OnionArchitecture.Infrastructure\\OnionArchitecture.Infrastructure.csproj|solutionrelative:onionarchitecture.infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A7CB48-A735-418C-8421-9EBCC1251C54}|OnionArchitecture\\OnionArchitecture.csproj|d:\\raja\\dotnet\\onionarchitecture\\onionarchitecture\\viewmodels\\refreshtokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A7CB48-A735-418C-8421-9EBCC1251C54}|OnionArchitecture\\OnionArchitecture.csproj|solutionrelative:onionarchitecture\\viewmodels\\refreshtokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66D273B-BA42-437F-BA9B-A1C6CF639B39}|OnionArchitecture.Application\\OnionArchitecture.Application.csproj|d:\\raja\\dotnet\\onionarchitecture\\onionarchitecture.application\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66D273B-BA42-437F-BA9B-A1C6CF639B39}|OnionArchitecture.Application\\OnionArchitecture.Application.csproj|solutionrelative:onionarchitecture.application\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A7CB48-A735-418C-8421-9EBCC1251C54}|OnionArchitecture\\OnionArchitecture.csproj|d:\\raja\\dotnet\\onionarchitecture\\onionarchitecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{72A7CB48-A735-418C-8421-9EBCC1251C54}|OnionArchitecture\\OnionArchitecture.csproj|solutionrelative:onionarchitecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E807EFDE-F914-4A2F-A01C-C578CA3526EC}|OnionArchitecture.Domain\\OnionArchitecture.Domain.csproj|d:\\raja\\dotnet\\onionarchitecture\\onionarchitecture.domain\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E807EFDE-F914-4A2F-A01C-C578CA3526EC}|OnionArchitecture.Domain\\OnionArchitecture.Domain.csproj|solutionrelative:onionarchitecture.domain\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E807EFDE-F914-4A2F-A01C-C578CA3526EC}|OnionArchitecture.Domain\\OnionArchitecture.Domain.csproj|d:\\raja\\dotnet\\onionarchitecture\\onionarchitecture.domain\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E807EFDE-F914-4A2F-A01C-C578CA3526EC}|OnionArchitecture.Domain\\OnionArchitecture.Domain.csproj|solutionrelative:onionarchitecture.domain\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E807EFDE-F914-4A2F-A01C-C578CA3526EC}|OnionArchitecture.Domain\\OnionArchitecture.Domain.csproj|d:\\raja\\dotnet\\onionarchitecture\\onionarchitecture.domain\\interfaces\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E807EFDE-F914-4A2F-A01C-C578CA3526EC}|OnionArchitecture.Domain\\OnionArchitecture.Domain.csproj|solutionrelative:onionarchitecture.domain\\interfaces\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A7CB48-A735-418C-8421-9EBCC1251C54}|OnionArchitecture\\OnionArchitecture.csproj|d:\\raja\\dotnet\\onionarchitecture\\onionarchitecture\\viewmodels\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A7CB48-A735-418C-8421-9EBCC1251C54}|OnionArchitecture\\OnionArchitecture.csproj|solutionrelative:onionarchitecture\\viewmodels\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "OnionArchitecture\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "OnionArchitecture\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T15:19:38.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture.Application\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "OnionArchitecture.Application\\Interfaces\\IProductService.cs",
+              "ToolTip": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture.Application\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "OnionArchitecture.Application\\Interfaces\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T14:50:58.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "OnionArchitecture\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "OnionArchitecture\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA3wCMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:01:18.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture.Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "OnionArchitecture.Application\\Services\\AuthService.cs",
+              "ToolTip": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture.Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "OnionArchitecture.Application\\Services\\AuthService.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAowEkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:03:22.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RefreshTokenService.cs",
+              "DocumentMoniker": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture.Application\\Services\\RefreshTokenService.cs",
+              "RelativeDocumentMoniker": "OnionArchitecture.Application\\Services\\RefreshTokenService.cs",
+              "ToolTip": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture.Application\\Services\\RefreshTokenService.cs",
+              "RelativeToolTip": "OnionArchitecture.Application\\Services\\RefreshTokenService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAowBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:59:17.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "OnionArchitecture\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "OnionArchitecture\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T15:02:08.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "OnionArchitecture.Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "OnionArchitecture.Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T14:54:56.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtValidationMiddleware.cs",
+              "DocumentMoniker": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture\\Middlewares\\JwtValidationMiddleware.cs",
+              "RelativeDocumentMoniker": "OnionArchitecture\\Middlewares\\JwtValidationMiddleware.cs",
+              "ToolTip": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture\\Middlewares\\JwtValidationMiddleware.cs",
+              "RelativeToolTip": "OnionArchitecture\\Middlewares\\JwtValidationMiddleware.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAIwC4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:33:44.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoggerMiddleware.cs",
+              "DocumentMoniker": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture\\Middlewares\\LoggerMiddleware.cs",
+              "RelativeDocumentMoniker": "OnionArchitecture\\Middlewares\\LoggerMiddleware.cs",
+              "ToolTip": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture\\Middlewares\\LoggerMiddleware.cs",
+              "RelativeToolTip": "OnionArchitecture\\Middlewares\\LoggerMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T15:24:02.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "OnionArchitecture.Application\\Services\\ProductService.cs",
+              "ToolTip": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "OnionArchitecture.Application\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T14:51:39.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture\\Program.cs",
+              "RelativeDocumentMoniker": "OnionArchitecture\\Program.cs",
+              "ToolTip": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture\\Program.cs",
+              "RelativeToolTip": "OnionArchitecture\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAIwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T14:56:12.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture.Application\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "OnionArchitecture.Application\\Interfaces\\IAuthService.cs",
+              "ToolTip": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture.Application\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "OnionArchitecture.Application\\Interfaces\\IAuthService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAlwA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:05:20.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture.Domain\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "OnionArchitecture.Domain\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture.Domain\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "OnionArchitecture.Domain\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T14:49:09.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRefreshTokenService.cs",
+              "DocumentMoniker": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture.Application\\Interfaces\\IRefreshTokenService.cs",
+              "RelativeDocumentMoniker": "OnionArchitecture.Application\\Interfaces\\IRefreshTokenService.cs",
+              "ToolTip": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture.Application\\Interfaces\\IRefreshTokenService.cs",
+              "RelativeToolTip": "OnionArchitecture.Application\\Interfaces\\IRefreshTokenService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:58:52.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture.Infrastructure\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "OnionArchitecture.Infrastructure\\Context\\AppDbContext.cs",
+              "ToolTip": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture.Infrastructure\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "OnionArchitecture.Infrastructure\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T14:53:03.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RefreshTokenRequest.cs",
+              "DocumentMoniker": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture\\ViewModels\\RefreshTokenRequest.cs",
+              "RelativeDocumentMoniker": "OnionArchitecture\\ViewModels\\RefreshTokenRequest.cs",
+              "ToolTip": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture\\ViewModels\\RefreshTokenRequest.cs",
+              "RelativeToolTip": "OnionArchitecture\\ViewModels\\RefreshTokenRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:02:56.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture.Application\\Models\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "OnionArchitecture.Application\\Models\\RefreshToken.cs",
+              "ToolTip": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture.Application\\Models\\RefreshToken.cs",
+              "RelativeToolTip": "OnionArchitecture.Application\\Models\\RefreshToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:58:35.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture\\appsettings.json",
+              "RelativeDocumentMoniker": "OnionArchitecture\\appsettings.json",
+              "ToolTip": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture\\appsettings.json",
+              "RelativeToolTip": "OnionArchitecture\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-09T15:24:21.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture.Domain\\Interfaces\\IEntity.cs",
+              "RelativeDocumentMoniker": "OnionArchitecture.Domain\\Interfaces\\IEntity.cs",
+              "ToolTip": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture.Domain\\Interfaces\\IEntity.cs",
+              "RelativeToolTip": "OnionArchitecture.Domain\\Interfaces\\IEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T14:47:22.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture.Domain\\Domain\\User.cs",
+              "RelativeDocumentMoniker": "OnionArchitecture.Domain\\Domain\\User.cs",
+              "ToolTip": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture.Domain\\Domain\\User.cs",
+              "RelativeToolTip": "OnionArchitecture.Domain\\Domain\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:06:26.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture.Domain\\Domain\\Product.cs",
+              "RelativeDocumentMoniker": "OnionArchitecture.Domain\\Domain\\Product.cs",
+              "ToolTip": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture.Domain\\Domain\\Product.cs",
+              "RelativeToolTip": "OnionArchitecture.Domain\\Domain\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T14:47:37.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture\\ViewModels\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "OnionArchitecture\\ViewModels\\LoginRequest.cs",
+              "ToolTip": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture\\ViewModels\\LoginRequest.cs",
+              "RelativeToolTip": "OnionArchitecture\\ViewModels\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:01:56.879Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

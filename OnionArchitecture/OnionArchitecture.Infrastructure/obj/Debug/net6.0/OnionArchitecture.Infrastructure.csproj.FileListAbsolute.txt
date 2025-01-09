@@ -1,0 +1,15 @@
+D:\Raja\DotNet\OnionArchitecture\OnionArchitecture.Infrastructure\bin\Debug\net6.0\OnionArchitecture.Infrastructure.deps.json
+D:\Raja\DotNet\OnionArchitecture\OnionArchitecture.Infrastructure\bin\Debug\net6.0\OnionArchitecture.Infrastructure.dll
+D:\Raja\DotNet\OnionArchitecture\OnionArchitecture.Infrastructure\bin\Debug\net6.0\OnionArchitecture.Infrastructure.pdb
+D:\Raja\DotNet\OnionArchitecture\OnionArchitecture.Infrastructure\bin\Debug\net6.0\OnionArchitecture.Domain.dll
+D:\Raja\DotNet\OnionArchitecture\OnionArchitecture.Infrastructure\bin\Debug\net6.0\OnionArchitecture.Domain.pdb
+D:\Raja\DotNet\OnionArchitecture\OnionArchitecture.Infrastructure\obj\Debug\net6.0\OnionArchitecture.Infrastructure.csproj.AssemblyReference.cache
+D:\Raja\DotNet\OnionArchitecture\OnionArchitecture.Infrastructure\obj\Debug\net6.0\OnionArchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Raja\DotNet\OnionArchitecture\OnionArchitecture.Infrastructure\obj\Debug\net6.0\OnionArchitecture.Infrastructure.AssemblyInfoInputs.cache
+D:\Raja\DotNet\OnionArchitecture\OnionArchitecture.Infrastructure\obj\Debug\net6.0\OnionArchitecture.Infrastructure.AssemblyInfo.cs
+D:\Raja\DotNet\OnionArchitecture\OnionArchitecture.Infrastructure\obj\Debug\net6.0\OnionArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Raja\DotNet\OnionArchitecture\OnionArchitecture.Infrastructure\obj\Debug\net6.0\OnionArc.5DC639BC.Up2Date
+D:\Raja\DotNet\OnionArchitecture\OnionArchitecture.Infrastructure\obj\Debug\net6.0\OnionArchitecture.Infrastructure.dll
+D:\Raja\DotNet\OnionArchitecture\OnionArchitecture.Infrastructure\obj\Debug\net6.0\refint\OnionArchitecture.Infrastructure.dll
+D:\Raja\DotNet\OnionArchitecture\OnionArchitecture.Infrastructure\obj\Debug\net6.0\OnionArchitecture.Infrastructure.pdb
+D:\Raja\DotNet\OnionArchitecture\OnionArchitecture.Infrastructure\obj\Debug\net6.0\ref\OnionArchitecture.Infrastructure.dll

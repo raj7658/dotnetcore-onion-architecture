@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "iSlqPbmfOCwN3gF2T2mVQvu3o2LxI7ZRNDVyA59PXvWF29mgWI9jycOEjcE7gvuvBanZ7mijdbl4KfP2eO9f4Q==",
+  "success": true,
+  "projectFilePath": "D:\\Raja\\DotNet\\OnionArchitecture\\OnionArchitecture.Application\\OnionArchitecture.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raja\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Raja\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.1\\microsoft.extensions.configuration.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\Raja\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.1\\microsoft.extensions.primitives.6.0.1.nupkg.sha512",
+    "C:\\Users\\Raja\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.36.0\\microsoft.identitymodel.abstractions.6.36.0.nupkg.sha512",
+    "C:\\Users\\Raja\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.36.0\\microsoft.identitymodel.jsonwebtokens.6.36.0.nupkg.sha512",
+    "C:\\Users\\Raja\\.nuget\\packages\\microsoft.identitymodel.logging\\6.36.0\\microsoft.identitymodel.logging.6.36.0.nupkg.sha512",
+    "C:\\Users\\Raja\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.36.0\\microsoft.identitymodel.tokens.6.36.0.nupkg.sha512",
+    "C:\\Users\\Raja\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.36.0\\system.identitymodel.tokens.jwt.6.36.0.nupkg.sha512",
+    "C:\\Users\\Raja\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

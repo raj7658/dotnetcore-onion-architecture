@@ -1,0 +1,178 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OnionArchitecture.Application/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "6.0.1",
+          "Microsoft.IdentityModel.Tokens": "6.36.0",
+          "OnionArchitecture.Domain": "1.0.0",
+          "System.IdentityModel.Tokens.Jwt": "6.36.0"
+        },
+        "runtime": {
+          "OnionArchitecture.Application.dll": {}
+        }
+      },
+      "Microsoft.CSharp/4.5.0": {},
+      "Microsoft.Extensions.Configuration.Abstractions/6.0.1": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "6.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.3624.51421"
+          }
+        }
+      },
+      "Microsoft.Extensions.Primitives/6.0.1": {
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.Primitives.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.3624.51421"
+          }
+        }
+      },
+      "Microsoft.IdentityModel.Abstractions/6.36.0": {
+        "runtime": {
+          "lib/net6.0/Microsoft.IdentityModel.Abstractions.dll": {
+            "assemblyVersion": "6.36.0.0",
+            "fileVersion": "6.36.0.50718"
+          }
+        }
+      },
+      "Microsoft.IdentityModel.JsonWebTokens/6.36.0": {
+        "dependencies": {
+          "Microsoft.IdentityModel.Tokens": "6.36.0"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll": {
+            "assemblyVersion": "6.36.0.0",
+            "fileVersion": "6.36.0.50718"
+          }
+        }
+      },
+      "Microsoft.IdentityModel.Logging/6.36.0": {
+        "dependencies": {
+          "Microsoft.IdentityModel.Abstractions": "6.36.0"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.IdentityModel.Logging.dll": {
+            "assemblyVersion": "6.36.0.0",
+            "fileVersion": "6.36.0.50718"
+          }
+        }
+      },
+      "Microsoft.IdentityModel.Tokens/6.36.0": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.5.0",
+          "Microsoft.IdentityModel.Logging": "6.36.0",
+          "System.Security.Cryptography.Cng": "4.5.0"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.IdentityModel.Tokens.dll": {
+            "assemblyVersion": "6.36.0.0",
+            "fileVersion": "6.36.0.50718"
+          }
+        }
+      },
+      "System.IdentityModel.Tokens.Jwt/6.36.0": {
+        "dependencies": {
+          "Microsoft.IdentityModel.JsonWebTokens": "6.36.0",
+          "Microsoft.IdentityModel.Tokens": "6.36.0"
+        },
+        "runtime": {
+          "lib/net6.0/System.IdentityModel.Tokens.Jwt.dll": {
+            "assemblyVersion": "6.36.0.0",
+            "fileVersion": "6.36.0.50718"
+          }
+        }
+      },
+      "System.Security.Cryptography.Cng/4.5.0": {},
+      "OnionArchitecture.Domain/1.0.0": {
+        "runtime": {
+          "OnionArchitecture.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OnionArchitecture.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CSharp/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kaj6Wb4qoMuH3HySFJhxwQfe8R/sJsNJnANrvv8WdFPMoNbKY5htfNscv+LHCu5ipz+49m2e+WQXpLXr9XYemQ==",
+      "path": "microsoft.csharp/4.5.0",
+      "hashPath": "microsoft.csharp.4.5.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration.Abstractions/6.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+FhuIM7bE3CyzhhIju6K1pmcDAp4ez2PKwx8jnV4dEI/LXXBGdQbDijlaQWqMa1oC38DX390bSshQVaKXioiXA==",
+      "path": "microsoft.extensions.configuration.abstractions/6.0.1",
+      "hashPath": "microsoft.extensions.configuration.abstractions.6.0.1.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/6.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zyJfttJduuQbGEsd/TgerUEdgzHgUn/6oFgeaE04DKUMs7bbzckV7Ci1QZxf/VyQAlG41gR/GjecEScuYoHCUg==",
+      "path": "microsoft.extensions.primitives/6.0.1",
+      "hashPath": "microsoft.extensions.primitives.6.0.1.nupkg.sha512"
+    },
+    "Microsoft.IdentityModel.Abstractions/6.36.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-o9NqPQUfLjFCPNDCEEl2K8TskjC7fIWa8u8VRmx0PxzJCaUcQfdTyeutgP3+8AKkAy62IJWZH4bmFzr21gX4WQ==",
+      "path": "microsoft.identitymodel.abstractions/6.36.0",
+      "hashPath": "microsoft.identitymodel.abstractions.6.36.0.nupkg.sha512"
+    },
+    "Microsoft.IdentityModel.JsonWebTokens/6.36.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DxRgLbNHolfLyuaf/G9Hqju02QCUHWbi7nFQpg+3PnsUGw1vEgSVrpLIhpJpYO23UegFvgO+y5mhyLEKIB8rPw==",
+      "path": "microsoft.identitymodel.jsonwebtokens/6.36.0",
+      "hashPath": "microsoft.identitymodel.jsonwebtokens.6.36.0.nupkg.sha512"
+    },
+    "Microsoft.IdentityModel.Logging/6.36.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rp2UEzUKFi1GBWD0Mv0fHodvj6SL+rxh6iAmzpL1z9sRAuTLx9+8skMjdM+L8sJ3Hrrqki1kHWuYEe0HN/GrNg==",
+      "path": "microsoft.identitymodel.logging/6.36.0",
+      "hashPath": "microsoft.identitymodel.logging.6.36.0.nupkg.sha512"
+    },
+    "Microsoft.IdentityModel.Tokens/6.36.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WXFmWvHSVYrVv8HmewZvAA7toB8OJ3qu60hgkULI833tONuhLpUuI/MUhOShSqOPuNTdDmbJsiHxGcRPY1/Lyg==",
+      "path": "microsoft.identitymodel.tokens/6.36.0",
+      "hashPath": "microsoft.identitymodel.tokens.6.36.0.nupkg.sha512"
+    },
+    "System.IdentityModel.Tokens.Jwt/6.36.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8RKI7qlT6yuEFBId/Ne2VDfa0bh5aUKJLHRV0YuSnYEtnMNJTrbUJyyXwtqEhV9Ykk2bV997QKBFi3Ni8P+wAw==",
+      "path": "system.identitymodel.tokens.jwt/6.36.0",
+      "hashPath": "system.identitymodel.tokens.jwt.6.36.0.nupkg.sha512"
+    },
+    "System.Security.Cryptography.Cng/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WG3r7EyjUe9CMPFSs6bty5doUqT+q9pbI80hlNzo2SkPkZ4VTuZkGWjpp77JB8+uaL4DFPRdBsAY+DX3dBK92A==",
+      "path": "system.security.cryptography.cng/4.5.0",
+      "hashPath": "system.security.cryptography.cng.4.5.0.nupkg.sha512"
+    },
+    "OnionArchitecture.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

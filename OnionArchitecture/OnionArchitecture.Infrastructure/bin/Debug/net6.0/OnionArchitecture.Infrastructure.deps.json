@@ -1,0 +1,258 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OnionArchitecture.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.36",
+          "OnionArchitecture.Domain": "1.0.0"
+        },
+        "runtime": {
+          "OnionArchitecture.Infrastructure.dll": {}
+        }
+      },
+      "Microsoft.EntityFrameworkCore/6.0.36": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Abstractions": "6.0.36",
+          "Microsoft.EntityFrameworkCore.Analyzers": "6.0.36",
+          "Microsoft.Extensions.Caching.Memory": "6.0.3",
+          "Microsoft.Extensions.DependencyInjection": "6.0.2",
+          "Microsoft.Extensions.Logging": "6.0.1",
+          "System.Collections.Immutable": "6.0.1",
+          "System.Diagnostics.DiagnosticSource": "6.0.2"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.EntityFrameworkCore.dll": {
+            "assemblyVersion": "6.0.36.0",
+            "fileVersion": "6.0.3624.51504"
+          }
+        }
+      },
+      "Microsoft.EntityFrameworkCore.Abstractions/6.0.36": {
+        "runtime": {
+          "lib/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll": {
+            "assemblyVersion": "6.0.36.0",
+            "fileVersion": "6.0.3624.51504"
+          }
+        }
+      },
+      "Microsoft.EntityFrameworkCore.Analyzers/6.0.36": {},
+      "Microsoft.Extensions.Caching.Abstractions/6.0.1": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "6.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Caching.Abstractions.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.3624.51421"
+          }
+        }
+      },
+      "Microsoft.Extensions.Caching.Memory/6.0.3": {
+        "dependencies": {
+          "Microsoft.Extensions.Caching.Abstractions": "6.0.1",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.4",
+          "Microsoft.Extensions.Options": "6.0.1",
+          "Microsoft.Extensions.Primitives": "6.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Caching.Memory.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.3624.51421"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection/6.0.2": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.3624.51421"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/6.0.0": {
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging/6.0.1": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection": "6.0.2",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.4",
+          "Microsoft.Extensions.Options": "6.0.1",
+          "System.Diagnostics.DiagnosticSource": "6.0.2"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Microsoft.Extensions.Logging.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.3624.51421"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging.Abstractions/6.0.4": {
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1823.26907"
+          }
+        }
+      },
+      "Microsoft.Extensions.Options/6.0.1": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Primitives": "6.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Microsoft.Extensions.Options.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.3624.51421"
+          }
+        }
+      },
+      "Microsoft.Extensions.Primitives/6.0.1": {
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.Primitives.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.3624.51421"
+          }
+        }
+      },
+      "System.Collections.Immutable/6.0.1": {
+        "runtime": {
+          "lib/net6.0/System.Collections.Immutable.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.3624.51421"
+          }
+        }
+      },
+      "System.Diagnostics.DiagnosticSource/6.0.2": {
+        "runtime": {
+          "lib/net6.0/System.Diagnostics.DiagnosticSource.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.3624.51421"
+          }
+        }
+      },
+      "OnionArchitecture.Domain/1.0.0": {
+        "runtime": {
+          "OnionArchitecture.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OnionArchitecture.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.EntityFrameworkCore/6.0.36": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0i1BBvJBrqdmIdTqCmL+/J74HucYqc5eck3J5trKe6AN2fvdE1lICto6HBwNhbtPniZO7bhW36FnIjTK0FamXg==",
+      "path": "microsoft.entityframeworkcore/6.0.36",
+      "hashPath": "microsoft.entityframeworkcore.6.0.36.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.Abstractions/6.0.36": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nrR4lfe9izQK1eerKW/ECHuJV8xXtuvoj/APrwwOjX4+Ne2SMXBpetctPcYNVc3KyiKuUHJSLywWtsqoXE5ElA==",
+      "path": "microsoft.entityframeworkcore.abstractions/6.0.36",
+      "hashPath": "microsoft.entityframeworkcore.abstractions.6.0.36.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.Analyzers/6.0.36": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Se0wloBaAJcLwgSW4hvGdAWjKnuIwgQ2PKTNkvG80PW/WFgedwKomY9wuO5BPewIHlX6huGyP//StQQRQOWr+Q==",
+      "path": "microsoft.entityframeworkcore.analyzers/6.0.36",
+      "hashPath": "microsoft.entityframeworkcore.analyzers.6.0.36.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Caching.Abstractions/6.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zEtKmOJ3sZ9YxRgvgLtoQsqO069Kqp0aC6Ai+DkyE5uahtu1ynvuoDVFQgyyhVcJWnxCzZHax/3AodvAx2mhjA==",
+      "path": "microsoft.extensions.caching.abstractions/6.0.1",
+      "hashPath": "microsoft.extensions.caching.abstractions.6.0.1.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Caching.Memory/6.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GVNNcHoPDEUn4OQiBBGs5mE6nX7BA+LeQId9NeA+gB8xcbDUmFPAl8Er2ixNLbn4ffFr8t5jfMwdxgFG66k7BA==",
+      "path": "microsoft.extensions.caching.memory/6.0.3",
+      "hashPath": "microsoft.extensions.caching.memory.6.0.3.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection/6.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gWUfUZ2ZDvwiVCxsOMComAhG43xstNWWVjV2takUZYRuDSJjO9Q5/b3tfOSkl5mcVwZAL3RZviRj5ZilxHghlw==",
+      "path": "microsoft.extensions.dependencyinjection/6.0.2",
+      "hashPath": "microsoft.extensions.dependencyinjection.6.0.2.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xlzi2IYREJH3/m6+lUrQlujzX8wDitm4QGnUu6kUXTQAWPuZY8i+ticFJbzfqaetLA6KR/rO6Ew/HuYD+bxifg==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/6.0.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging/6.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-k6tbYaHrqY9kq7p5FfpPbddY1OImPCpXQ/PGcED6N9s5ULRp8n1PdmMzsIwIzCnhIS5bs06G/lO9LfNVpUj8jg==",
+      "path": "microsoft.extensions.logging/6.0.1",
+      "hashPath": "microsoft.extensions.logging.6.0.1.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging.Abstractions/6.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-K14wYgwOfKVELrUh5eBqlC8Wvo9vvhS3ZhIvcswV2uS/ubkTRPSQsN557EZiYUSSoZNxizG+alN4wjtdyLdcyw==",
+      "path": "microsoft.extensions.logging.abstractions/6.0.4",
+      "hashPath": "microsoft.extensions.logging.abstractions.6.0.4.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Options/6.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-v5rh5jRcLBOKOaLVyYCm4TY/RoJlxWsW7N2TAPkmlHe55/0cB0Syp979x4He1+MIXsaTvJl1WOc7b1D1PSsO3A==",
+      "path": "microsoft.extensions.options/6.0.1",
+      "hashPath": "microsoft.extensions.options.6.0.1.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/6.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zyJfttJduuQbGEsd/TgerUEdgzHgUn/6oFgeaE04DKUMs7bbzckV7Ci1QZxf/VyQAlG41gR/GjecEScuYoHCUg==",
+      "path": "microsoft.extensions.primitives/6.0.1",
+      "hashPath": "microsoft.extensions.primitives.6.0.1.nupkg.sha512"
+    },
+    "System.Collections.Immutable/6.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Cc+SfP+jyCmA1TnRnDA7cRZy5jbLyWodfuUJKDJ+PJZBwWkv8szz+ztSCHAonqnL01DRaHaS2ptc4bYIEdgvWw==",
+      "path": "system.collections.immutable/6.0.1",
+      "hashPath": "system.collections.immutable.6.0.1.nupkg.sha512"
+    },
+    "System.Diagnostics.DiagnosticSource/6.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6tQaIexFycaotdGn23lf3XJ/eI1GOjQKIvQDRFN9N4pwoNsKnHuXccQ3lnQO6GX8KAb1ic+6ZofJmPdbUVwZag==",
+      "path": "system.diagnostics.diagnosticsource/6.0.2",
+      "hashPath": "system.diagnostics.diagnosticsource.6.0.2.nupkg.sha512"
+    },
+    "OnionArchitecture.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
